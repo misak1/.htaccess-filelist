@@ -1,0 +1,721 @@
+
+.sprite_application_xp {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -20px 0px;
+}
+.sprite_application_xp_terminal {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -900px 0px;
+}
+.sprite_box {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -40px 0px;
+}
+.sprite_cd {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -60px 0px;
+}
+.sprite_controller {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -80px 0px;
+}
+.sprite_drive {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -100px 0px;
+}
+.sprite_film {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -120px 0px;
+}
+.sprite_folder {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -140px 0px;
+}
+.sprite_font {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -160px 0px;
+}
+.sprite_image {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -180px 0px;
+}
+.sprite_map {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -200px 0px;
+}
+.sprite_page {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -220px 0px;
+}
+.sprite_page_add {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -240px 0px;
+}
+.sprite_page_attach {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -260px 0px;
+}
+.sprite_page_code {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -280px 0px;
+}
+.sprite_page_copy {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -300px 0px;
+}
+.sprite_page_delete {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -320px 0px;
+}
+.sprite_page_edit {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -340px 0px;
+}
+.sprite_page_error {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -360px 0px;
+}
+.sprite_page_excel {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -380px 0px;
+}
+.sprite_page_find {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -400px 0px;
+}
+.sprite_page_gear {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -420px 0px;
+}
+.sprite_page_go {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -440px 0px;
+}
+.sprite_page_green {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -460px 0px;
+}
+.sprite_page_key {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -480px 0px;
+}
+.sprite_page_lightning {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -500px 0px;
+}
+.sprite_page_link {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -520px 0px;
+}
+.sprite_page_paintbrush {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -540px 0px;
+}
+.sprite_page_paste {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -560px 0px;
+}
+.sprite_page_red {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -580px 0px;
+}
+.sprite_page_refresh {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -600px 0px;
+}
+.sprite_page_save {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -620px 0px;
+}
+.sprite_page_white {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -640px 0px;
+}
+.sprite_page_white_acrobat {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -660px 0px;
+}
+.sprite_page_white_actionscript {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -680px 0px;
+}
+.sprite_page_white_add {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -700px 0px;
+}
+.sprite_page_white_c {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -720px 0px;
+}
+.sprite_page_white_camera {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -740px 0px;
+}
+.sprite_page_white_cd {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -760px 0px;
+}
+.sprite_page_white_code {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -780px 0px;
+}
+.sprite_page_white_code_red {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -800px 0px;
+}
+.sprite_page_white_coldfusion {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -820px 0px;
+}
+.sprite_page_white_compressed {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -840px 0px;
+}
+.sprite_page_white_copy {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -860px 0px;
+}
+.sprite_page_white_cplusplus {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -880px 0px;
+}
+.sprite_page_white_csharp {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+}
+.sprite_page_white_cup {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -920px 0px;
+}
+.sprite_page_white_database {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -940px 0px;
+}
+.sprite_page_white_delete {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -960px 0px;
+}
+.sprite_page_white_dvd {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -980px 0px;
+}
+.sprite_page_white_edit {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1000px 0px;
+}
+.sprite_page_white_error {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1020px 0px;
+}
+.sprite_page_white_excel {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1040px 0px;
+}
+.sprite_page_white_find {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1060px 0px;
+}
+.sprite_page_white_flash {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1080px 0px;
+}
+.sprite_page_white_freehand {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1100px 0px;
+}
+.sprite_page_white_gear {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1120px 0px;
+}
+.sprite_page_white_get {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1140px 0px;
+}
+.sprite_page_white_go {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1160px 0px;
+}
+.sprite_page_white_h {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1180px 0px;
+}
+.sprite_page_white_horizontal {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1200px 0px;
+}
+.sprite_page_white_key {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1220px 0px;
+}
+.sprite_page_white_lightning {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1240px 0px;
+}
+.sprite_page_white_link {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1260px 0px;
+}
+.sprite_page_white_magnify {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1280px 0px;
+}
+.sprite_page_white_medal {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1300px 0px;
+}
+.sprite_page_white_office {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1320px 0px;
+}
+.sprite_page_white_paint {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1340px 0px;
+}
+.sprite_page_white_paintbrush {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1360px 0px;
+}
+.sprite_page_white_paste {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1380px 0px;
+}
+.sprite_page_white_php {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1400px 0px;
+}
+.sprite_page_white_picture {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1420px 0px;
+}
+.sprite_page_white_powerpoint {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1440px 0px;
+}
+.sprite_page_white_put {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1460px 0px;
+}
+.sprite_page_white_ruby {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1480px 0px;
+}
+.sprite_page_white_stack {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1500px 0px;
+}
+.sprite_page_white_star {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1520px 0px;
+}
+.sprite_page_white_swoosh {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1540px 0px;
+}
+.sprite_page_white_text {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1560px 0px;
+}
+.sprite_page_white_text_width {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1580px 0px;
+}
+.sprite_page_white_tux {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1600px 0px;
+}
+.sprite_page_white_vector {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1620px 0px;
+}
+.sprite_page_white_visualstudio {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1640px 0px;
+}
+.sprite_page_white_width {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1660px 0px;
+}
+.sprite_page_white_word {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1680px 0px;
+}
+.sprite_page_white_world {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1700px 0px;
+}
+.sprite_page_white_wrench {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1720px 0px;
+}
+.sprite_page_white_zip {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1740px 0px;
+}
+.sprite_page_word {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1760px 0px;
+}
+.sprite_page_world {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-image: url(https://github.com/misak1/.htaccess-filelist/blob/master/sprite_icon.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: -1780px 0px;
+}
