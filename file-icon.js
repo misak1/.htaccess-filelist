@@ -18,6 +18,10 @@ $(function(){
             console.log(filename);
             $td.prepend('<i class=\'sprite_image\'></i>');
         }
+        if(/\.css/.test(filename) || /\.js/.test(filename) || /\.html/.test(filename) || /\.htm/.test(filename) || /\.jade/.test(filename)){
+            console.log(filename);
+            $td.prepend('<i class=\'sprite_page_white_text\'></i>');
+        }
         if(/\//.test(filename)){
             console.log(filename);
             $td.prepend('<i class=\'sprite_folder\'></i>');
