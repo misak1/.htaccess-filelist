@@ -14,7 +14,7 @@ $(function(){
             console.log(filename);
             $td.prepend('<i class=\'sprite_page_excel\'></i>');
         }
-        if(/\.ico/.test(filename) || /\.png/.test(filename) || /\.gif/.test(filename) || /\.jpg/.test(filename) /\.jpeg/.test(filename)){
+        if(/\.ico/.test(filename) || /\.png/.test(filename) || /\.gif/.test(filename) || /\.jpg/.test(filename) || /\.jpeg/.test(filename)){
             console.log(filename);
             $td.prepend('<i class=\'sprite_image\'></i>');
         }
