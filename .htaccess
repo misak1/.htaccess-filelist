@@ -1,0 +1,61 @@
+##########################
+# Custom Options Indexes
+##########################
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+Options +Indexes
+IndexHeadInsert "<link rel='stylesheet' href='http://getbootstrap.com/dist/css/bootstrap.min.css'><link rel='stylesheet' href='https://rawgit.com/misak1/.htaccess-filelist/master/file-icon.css'><script src='https://code.jquery.com/jquery-2.2.4.min.js' integrity='sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=' crossorigin='anonymous'></script><script type='text/javascript' src='https://rawgithub.com/misak1/.htaccess-filelist/master/file-icon.js'></script>"
+#IndexOptions FancyIndexing HTMLTable VersionSort Charset=UTF-8 DescriptionWidth=150
+IndexOptions Charset=UTF-8 NameWidth=50 DescriptionWidth=100 FancyIndexing HTMLTable VersionSort
+AddDescription "accdb" *.accdb
+AddDescription "asp" *.asp
+AddDescription "avi" *.avi
+AddDescription "bat" *.bat
+AddDescription "bmp" *.bmp
+AddDescription "cda" *.cda
+AddDescription "com" *.com
+AddDescription "css" *.css
+AddDescription "csv" *.csv
+AddDescription "divx" *.divx
+AddDescription "dll" *.dll
+AddDescription "doc" *.doc
+AddDescription "docm" *.docm
+AddDescription "docx" *.docx
+AddDescription "exe" *.exe
+AddDescription "gif" *.gif
+AddDescription "gz" *.gz
+AddDescription "html" *.html
+AddDescription "htm" *.htm
+AddDescription "ini" *.ini
+AddDescription "jpeg" *.jpeg
+AddDescription "jpg" *.jpg
+AddDescription "lzh" *.lzh
+AddDescription "m4a" *.m4a
+AddDescription "mdb" *.mdb
+AddDescription "mov" *.mov
+AddDescription "mp3" *.mp3
+AddDescription "mpeg" *.mpeg
+AddDescription "mpg" *.mpg
+AddDescription "ogg" *.ogg
+AddDescription "ogm" *.ogm
+AddDescription "pdf" *.pdf
+AddDescription "png" *.png
+AddDescription "ppt" *.ppt
+AddDescription "pptm" *.pptm
+AddDescription "pptx" *.pptx
+AddDescription "rm" *.rm
+AddDescription "tar" *.tar
+AddDescription "tif" *.tif
+AddDescription "tiff" *.tiff
+AddDescription "txt" *.txt
+AddDescription "vob" *.vob
+AddDescription "wav" *.wav
+AddDescription "wma" *.wma
+AddDescription "wmv" *.wmv
+AddDescription "xls" *.xls
+AddDescription "xlsm" *.xlsm
+AddDescription "xlsx" *.xlsx
+AddDescription "xml" *.xml
+AddDescription "zip" *.zip
+AddDescription "-" *
