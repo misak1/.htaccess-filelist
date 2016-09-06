@@ -27,4 +27,21 @@ $(function(){
             $td.prepend('<i class=\'sprite_folder\'></i>');
         }
     });
+
+    $('a').on('mouseover', function(){
+        var $this = $(this); 
+        var href = $this.attr('href');
+        
+        if(/.jpg|.gif|.png$/.test(href)){
+            var top = $this.offset().top + 20 + "px";
+            var left = $this.offset().left + 200 + "px"
+            $('body').css({position:"relative"});
+            var img_position = 'position:absolute; top:'+top+'; left:'+left+';width: 300px;';
+            $('body').append('<img class="thambnail" src="'+$this.attr('href')+'" style="'+img_position+'">');
+        }
+    });
+    $('a').on('mouseout', function(){ 
+        $('.thambnail').remove();
+    });
+
 });
